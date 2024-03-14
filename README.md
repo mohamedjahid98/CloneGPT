@@ -3,14 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Stacks for this project :
-Backend
+### Backend
 OpenAI API
 Node
 Express
 Javascript
 Cors
 
-Frontend
+### Frontend
 React
 Javascript
 
