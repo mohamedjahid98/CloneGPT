@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# ChatGPT-React-Node-clone
+### This full stack ChatGPT clone is a simple educational web application developed with the OpenAI library and built with React and Node.js. It allows users to chat with an AI language model that responds in real time.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
